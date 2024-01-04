@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --link: Montserrat;
+  --regular-text: "Apercu Pro";
+
+  /* font sizes */
+  --regular-text-size: 20px;
+  --font-size-base: 16px;
+  --link-size: 14px;
+  --h3-size: 24px;
+
+  /* Colors */
+  --white: #fff;
+  --color-cornflowerblue: #6986dc;
+  --input-field-background: #f2f4f8;
+  --page-background: #e8eaee;
+  --color-gray: #18181b;
+  --secondary-gray: #999faa;
+  --color-black: #000;
+  --color-violet: #ee75f0;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-3xs: 10px;
+  --gap-5xs: 8px;
+  --gap-9xs: 4px;
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-xs: 12px;
+  --br-5xs: 8px;
+  --br-base: 16px;
+}

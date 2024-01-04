@@ -1,0 +1,113 @@
+.drBrentfordJunior1 {
+    position: relative;
+    display: inline-block;
+    width: 592px;
+    height: 89px;
+    flex-shrink: 0;
+}
+.physician {
+    position: relative;
+    font-size: 32px;
+    font-weight: 500;
+    color: #515458;
+    display: flex;
+    align-items: center;
+    width: 486px;
+    height: 65px;
+    flex-shrink: 0;
+}
+.fixedWidthFixedHeightSec1 {
+    position: relative;
+    background-color: #ee75f0;
+    width: 94px;
+    height: 7px;
+}
+.drBrentfordJuniorParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-family: Poppins;
+}
+.prioritizeYourWellBeing1 {
+    margin-block-start: 0;
+    margin-block-end: 27px;
+}
+.prioritizeYourWellBeingContainer {
+    position: relative;
+    font-size: 24px;
+    line-height: 161%;
+    color: #515458;
+    display: inline-block;
+    width: 484px;
+    height: 216px;
+    flex-shrink: 0;
+}
+.btnText1 {
+    position: relative;
+    letter-spacing: 0.2px;
+    line-height: 22px;
+    font-weight: 800;
+}
+.buttonMdSec1 {
+    border-radius: 5px;
+    background-color: #6986dc;
+    width: 352px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 15px 40px;
+    box-sizing: border-box;
+}
+.theInformationYou1 {
+    position: relative;
+    line-height: 161%;
+    color: rgba(23, 25, 51, 0.8);
+    text-align: left;
+    display: flex;
+    align-items: flex-end;
+    width: 434px;
+    height: 28px;
+    flex-shrink: 0;
+}
+.buttonMdSecParent {
+    width: 434px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+}
+.checkupContainer1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+}
+.containerChild {
+    position: relative;
+    border-radius: 32px;
+    width: 600px;
+    height: 611px;
+    object-fit: cover;
+}
+.container1 {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+    text-align: left;
+    font-size: 56px;
+    color: #18181b;
+    font-family: Montserrat;
+}
+

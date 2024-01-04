@@ -1,0 +1,321 @@
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 32px;
+    background-color: #fff;
+    box-shadow: 0px 5px 4px rgba(8, 15, 52, 0.2);
+    width: 1004px;
+    height: 85px;
+}
+.groupItem {
+    position: absolute;
+    top: 13.5px;
+    left: 52px;
+    border-radius: 40px;
+    background-color: #ee75f0;
+    width: 98.09px;
+    height: 6px;
+}
+.groupInner {
+    position: absolute;
+    top: 13.5px;
+    left: 220.09px;
+    border-radius: 40px;
+    background-color: #ee75f0;
+    width: 98.09px;
+    height: 6px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 13.5px;
+    left: 388.18px;
+    border-radius: 40px;
+    background-color: #eff0f6;
+    width: 98.09px;
+    height: 6px;
+}
+.groupChild1 {
+    position: absolute;
+    top: 14px;
+    left: 388px;
+    border-radius: 40px 0px 0px 40px;
+    background-color: #ee75f0;
+    width: 45px;
+    height: 5px;
+}
+.groupChild2 {
+    position: absolute;
+    top: 13px;
+    left: 556px;
+    border-radius: 40px;
+    background-color: #eff0f6;
+    width: 98.09px;
+    height: 6px;
+}
+.ellipseDiv {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #ee75f0;
+    width: 34px;
+    height: 34px;
+}
+.div {
+    position: absolute;
+    top: 8.53px;
+    left: 14px;
+    line-height: 18px;
+    font-weight: 600;
+}
+.groupWrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 34px;
+    height: 34px;
+}
+.div1 {
+    position: absolute;
+    top: 8.53px;
+    left: 13px;
+    line-height: 18px;
+    font-weight: 600;
+}
+.groupFrame {
+    position: absolute;
+    top: 0px;
+    left: 168.09px;
+    width: 34px;
+    height: 34px;
+}
+.div2 {
+    position: absolute;
+    top: 8.53px;
+    left: 12px;
+    line-height: 18px;
+    font-weight: 600;
+}
+.groupDiv {
+    position: absolute;
+    top: 0px;
+    left: 336.18px;
+    width: 34px;
+    height: 34px;
+}
+.groupChild5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #eff0f6;
+    width: 34px;
+    height: 34px;
+}
+.div3 {
+    position: absolute;
+    top: 5.53px;
+    left: 12px;
+    line-height: 23px;
+    font-weight: 500;
+}
+.groupWrapper1 {
+    position: absolute;
+    top: 0px;
+    left: 504.27px;
+    width: 34px;
+    height: 34px;
+    color: #6f6c90;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 25px;
+    left: 241px;
+    width: 654.09px;
+    height: 34px;
+}
+.rectangleParent {
+    position: relative;
+    width: 1004px;
+    height: 85px;
+}
+.treatment {
+    position: relative;
+    display: inline-block;
+    width: 384px;
+}
+.treatmentWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    color: #013529;
+    font-family: Poppins;
+}
+.doYouHave1 {
+    position: relative;
+    font-size: 24px;
+    text-align: left;
+}
+.frameChild {
+    position: relative;
+    width: 28px;
+    height: 28px;
+    object-fit: cover;
+}
+.yes {
+    position: relative;
+    line-height: 24px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 228px;
+    height: 36px;
+    flex-shrink: 0;
+}
+.frameDiv {
+    width: 149px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frameWrapper {
+    width: 149px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.no {
+    position: relative;
+    line-height: 24px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 124px;
+    height: 35px;
+    flex-shrink: 0;
+}
+.groupParent1 {
+    width: 180px;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frameWrapper1 {
+    width: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frameGroup {
+    width: 385px;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 54px;
+    text-align: left;
+    font-size: 20px;
+}
+.frameInner {
+    border-radius: 16px;
+    border: 1px solid rgba(81, 84, 88, 0.5);
+    box-sizing: border-box;
+    width: 676px;
+    height: 70px;
+}
+.frameWrapper2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.searchDefaultWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.btnText2 {
+    position: relative;
+    letter-spacing: 0.2px;
+    line-height: 22px;
+    font-weight: 800;
+}
+.buttonMdSec2 {
+    border-radius: 5px;
+    border: 3px solid #6986dc;
+    box-sizing: border-box;
+    width: 296px;
+    height: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 40px;
+}
+.buttonMdSec3 {
+    border-radius: 5px;
+    background-color: #6986dc;
+    width: 296px;
+    height: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 40px;
+    box-sizing: border-box;
+    color: #fff;
+}
+.buttonMdSecParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 29px;
+    font-size: 16px;
+    color: #6986dc;
+}
+.frameParent {
+    border-radius: 32px;
+    background-color: #fff;
+    box-shadow: 0px 5px 16px rgba(8, 15, 52, 0.2);
+    width: 996px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 36px 54px;
+    box-sizing: border-box;
+    gap: 29px;
+    text-align: center;
+    font-size: 40px;
+    color: #18181b;
+}
+.groupParent {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 64px;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: Montserrat;
+}
+

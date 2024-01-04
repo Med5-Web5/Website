@@ -1,0 +1,170 @@
+.selected4 {
+    position: absolute;
+    top: -16px;
+    left: -16px;
+    border-radius: 16px;
+    background-color: #f2f4f8;
+    width: 1088px;
+    height: 103px;
+    display: none;
+}
+.featuredImageIcon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 72px;
+    height: 72px;
+    object-fit: cover;
+}
+.drBrentfordJunior1 {
+    position: relative;
+    line-height: 26px;
+    font-weight: 500;
+    display: inline-block;
+    width: 912px;
+}
+.physician {
+    position: relative;
+    line-height: 20px;
+}
+.frameChild {
+    position: relative;
+    background-color: #e8eaee;
+    width: 1px;
+    height: 24px;
+}
+.february1420231 {
+    position: relative;
+    line-height: 20px;
+    white-space: pre-wrap;
+}
+.physicianParent {
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    font-size: 16px;
+    color: #999faa;
+}
+.drBrentfordJuniorParent {
+    position: absolute;
+    top: 9px;
+    left: 88px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.article1 {
+    position: relative;
+    width: 1000px;
+    height: 72px;
+}
+.icon1 {
+    position: absolute;
+    top: 24px;
+    left: 1024px;
+    border-radius: 4px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.article4 {
+    position: relative;
+    width: 1048px;
+    height: 72px;
+}
+.articles {
+    position: absolute;
+    top: 8px;
+    left: 24px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.footerChild {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    border-radius: 0px 0px 20px 20px;
+    background-color: #fff;
+    width: 1135px;
+    height: 87px;
+}
+.showMeMore1 {
+    position: relative;
+    text-decoration: underline;
+    line-height: 22px;
+}
+.arrow1Stroke1 {
+    position: relative;
+    width: 14px;
+    height: 12px;
+    object-fit: cover;
+}
+.link {
+    position: absolute;
+    top: 33px;
+    right: 48px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.divider2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #f2f4f8;
+}
+.divider1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1136px;
+    height: 1px;
+}
+.results1 {
+    position: absolute;
+    top: 34px;
+    left: 48px;
+    line-height: 20px;
+    color: #999faa;
+    text-align: left;
+}
+.footer {
+    position: absolute;
+    top: 395px;
+    left: 0px;
+    width: 1136px;
+    height: 87px;
+    text-align: right;
+    font-size: 16px;
+}
+.results {
+    position: relative;
+    border-radius: 0px 0px 20px 20px;
+    background-color: #fff;
+    width: 100%;
+    height: 482px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 20px;
+    color: #000;
+    font-family: Montserrat;
+}
+

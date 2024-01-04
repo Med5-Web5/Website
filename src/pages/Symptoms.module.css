@@ -1,0 +1,257 @@
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 32px;
+    background-color: #fff;
+    box-shadow: 0px 5px 4px rgba(8, 15, 52, 0.2);
+    width: 1004px;
+    height: 85px;
+}
+.groupItem {
+    position: absolute;
+    top: 13.5px;
+    left: 52px;
+    border-radius: 40px;
+    background-color: #ee75f0;
+    width: 98.09px;
+    height: 6px;
+}
+.groupInner {
+    position: absolute;
+    top: 13.5px;
+    left: 220.09px;
+    border-radius: 40px;
+    background-color: #ee75f0;
+    width: 98.09px;
+    height: 6px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 13.5px;
+    left: 388.18px;
+    border-radius: 40px;
+    background-color: #ee75f0;
+    width: 98.09px;
+    height: 6px;
+}
+.rectangleIcon {
+    position: absolute;
+    top: 13px;
+    left: 556px;
+    border-radius: 40px;
+    width: 98.09px;
+    height: 6px;
+    object-fit: cover;
+}
+.ellipseDiv {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #ee75f0;
+    width: 34px;
+    height: 34px;
+}
+.div {
+    position: absolute;
+    top: 8.53px;
+    left: 14px;
+    line-height: 18px;
+    font-weight: 500;
+}
+.groupWrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 34px;
+    height: 34px;
+}
+.div1 {
+    position: absolute;
+    top: 8.53px;
+    left: 13px;
+    line-height: 18px;
+    font-weight: 500;
+}
+.groupFrame {
+    position: absolute;
+    top: 0px;
+    left: 168.09px;
+    width: 34px;
+    height: 34px;
+}
+.div2 {
+    position: absolute;
+    top: 8.53px;
+    left: 12px;
+    line-height: 18px;
+    font-weight: 500;
+}
+.groupDiv {
+    position: absolute;
+    top: 0px;
+    left: 336.18px;
+    width: 34px;
+    height: 34px;
+}
+.div3 {
+    position: absolute;
+    top: 5.53px;
+    left: 12px;
+    line-height: 23px;
+    font-weight: 500;
+}
+.groupWrapper1 {
+    position: absolute;
+    top: 0px;
+    left: 504.27px;
+    width: 34px;
+    height: 34px;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 25px;
+    left: 192px;
+    width: 654.09px;
+    height: 34px;
+}
+.rectangleParent {
+    position: relative;
+    width: 1004px;
+    height: 85px;
+}
+.symptoms {
+    position: relative;
+    display: inline-block;
+    width: 384px;
+}
+.symptomsWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 40px;
+    font-family: Poppins;
+}
+.whatSymptomsAre1 {
+    position: relative;
+    font-size: 24px;
+    text-align: left;
+}
+.searchEgHeadache1 {
+    position: relative;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 455px;
+    height: 41px;
+    flex-shrink: 0;
+}
+.shape227Icon1 {
+    position: relative;
+    width: 17px;
+    height: 17px;
+    object-fit: cover;
+}
+.searchEgHeadacheParent {
+    border-radius: 16px;
+    border: 1px solid rgba(81, 84, 88, 0.5);
+    box-sizing: border-box;
+    width: 676px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 24px;
+}
+.searchDefault {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.searchDefaultWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    color: #171933;
+}
+.btnText2 {
+    position: relative;
+    letter-spacing: 0.2px;
+    line-height: 22px;
+    font-weight: 800;
+}
+.buttonMdSec2 {
+    border-radius: 5px;
+    border: 3px solid #6986dc;
+    box-sizing: border-box;
+    width: 296px;
+    height: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 40px;
+}
+.buttonMdSec3 {
+    border-radius: 5px;
+    background-color: #6986dc;
+    width: 296px;
+    height: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 40px;
+    box-sizing: border-box;
+    color: #fff;
+}
+.buttonMdSecParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 29px;
+    color: #6986dc;
+}
+.frameParent {
+    border-radius: 32px;
+    background-color: #fff;
+    box-shadow: 0px 5px 16px rgba(8, 15, 52, 0.2);
+    width: 996px;
+    height: 501px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 36px 54px;
+    box-sizing: border-box;
+    gap: 29px;
+    text-align: center;
+    color: #18181b;
+}
+.groupParent {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 64px;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: Montserrat;
+}
+
