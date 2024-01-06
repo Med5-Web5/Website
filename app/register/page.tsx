@@ -1,13 +1,13 @@
 import { Nav } from '@/components/layout'
 
 
-import { Register } from "@/components/register"
+import { RegisterComponent } from "@/components/register"
 
-export default function register() {
+export default function Register() {
   return (
     <main className="">
         <Nav/>
-        <Register />
+        <RegisterComponent />
     </main>
   )
 }

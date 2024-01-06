@@ -1,1 +1,1 @@
-export {default as Register} from './register'
+export {default as RegisterComponent} from './register'
