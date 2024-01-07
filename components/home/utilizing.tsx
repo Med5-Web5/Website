@@ -20,7 +20,7 @@ const Utilizing = () => {
                 alt='Med5, Your way to go.'
                 width={150}
                 height={150}
-                className='sm:flex-1 my-3 w-full'
+                className='sm:flex-1 my-3 sm:w-1/2 w-full'
             />
         </div>
         <div className="m-[1rem] sm:m-[4rem] grid grid-cols-1 md:grid-cols-3 sm:mx-[10rem] gap-12">

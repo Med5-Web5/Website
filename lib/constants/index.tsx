@@ -1,4 +1,4 @@
-import { CardProps } from "../types";
+import { CardProps, PrescriptionDetailsProps, PrescriptionProps } from "../types";
 import { HeartPulse, Stethoscope, UserRound } from "lucide-react";
 
 export const Cards: CardProps[] = [
@@ -70,5 +70,71 @@ export const features = [
         icon: "/_static/images/tracking.svg",
         title: "Tracking",
         description: "Become the master of your health data!"
+    }
+];
+
+export const prescriptions: PrescriptionProps[] = [
+    {
+        color: "#FB00FF",
+        date: "2024-01-03",
+        doctor: {
+            picture: "/_static/images/avatar.png",
+            name: "Brentford Junior",
+        },
+        message: "Hey, your prescription is ready, you can get your medications now!",
+        tags: ["Fever", "Headache", "Upset-Stomach", "Catarrh", "Sore-throat", "Athritis", "PID", "Meningitis"],
+        status: "pending"
+    },
+    {
+        color: "#E5FAFF",
+        date: "2024-01-12",
+        doctor: {
+            picture: "/_static/images/avatar.png",
+            name: "Cynthia Randel",
+        },
+        message: "Hey, your prescription is ready, you can get your medications now!",
+        tags: ["Fever", "Headache", "Upset-Stomach", "Catarrh", "Sore-throat", "Athritis", "PID", "Meningitis"],
+        status: "pending"
+    },
+    {
+        color: "#FB00FF",
+        date: "2024-01-09",
+        doctor: {
+            picture: "/_static/images/avatar.png",
+            name: "Brentford Junior",
+        },
+        message: "Hey, your prescription is ready, you can get your medications now!",
+        tags: ["Fever", "Headache", "Upset-Stomach", "Catarrh", "Sore-throat", "Athritis", "PID", "Meningitis"],
+        status: "pending"
+    },
+    {
+        color: "#FB00FF",
+        date: "2024-01-09",
+        doctor: {
+            picture: "/_static/images/avatar.png",
+            name: "Brentford Junior",
+        },
+        message: "Hey, your prescription is ready, you can get your medications now!",
+        tags: ["Fever", "Headache", "Upset-Stomach", "Catarrh", "Sore-throat", "Athritis", "PID", "Meningitis"],
+        status: "pending"
+    }
+];
+
+export const prescriptionDetails: PrescriptionDetailsProps[] = [
+    {
+        date: "2024-01-07",
+        doctor: {
+            picture: "/_static/images/avatar.png",
+            name: "Brentford Junior",
+        },
+        tags: ["Fever", "Headache", "Upset-Stomach", "Catarrh", "Sore-throat", "Athritis", "PID", "Meningitis"],
+        drugs:[
+            {
+                name: "Imodium",
+                content: "16 Capsules of 2 mg each"
+            }
+        ],
+        reason:"Your are experiencing symptoms of Diarrhea. Visit the hospital if the symptoms persist after one week of medication use.",
+        dosage:"The initial dose is 4mg (two capsules) followed by 2 mg (one capsule) after each unformed stool"
     }
 ]

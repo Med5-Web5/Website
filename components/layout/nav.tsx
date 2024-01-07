@@ -11,11 +11,11 @@ const navItems = {
   '/': {
     name: 'Home',
   },
-  '/web-doctor': {
+  '/doctor': {
     name: 'Web Doctor',
   },
-  '/prescriptions': {
-    name: 'Prescriptions',
+  '/prescription': {
+    name: 'Prescription',
   },
   '/register': {
     name: 'Register as a doctor',
@@ -56,8 +56,12 @@ const Nav = () => {
 export default Nav;
 
 const NavItem =({ name, path }: { name: string, path: string }) => {
-
   let pathname = usePathname() || '/';
+  if(pathname.includes('/doctor/')){
+    pathname = "/doctor"
+  } else if(pathname.includes('/prescription/')){
+    pathname = "/prescription"
+  }
   const isActive = path === pathname;
 
   return (

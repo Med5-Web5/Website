@@ -45,9 +45,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={cn(montserrat.variable, poppins.variable, poppinsMedium.variable, poppinsBold.variable, poppinsBlack.variable)}>
         <main className="min-h-screen">
-            {/* <Nav /> */}
-            {children}
-            <Footer />
+          {children}
         </main>
       </body>
     </html>

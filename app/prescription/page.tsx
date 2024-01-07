@@ -1,8 +1,10 @@
+import { Nav } from '@/components/layout'
 import { Hero } from '@/components/prescription'
 
 export default function Home() {
   return (
-    <main className="">
+    <main className="bg-[#E5FAFF]">
+      <Nav />
       <Hero />
     </main>
   )
