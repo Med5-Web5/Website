@@ -137,4 +137,25 @@ export const prescriptionDetails: PrescriptionDetailsProps[] = [
         reason:"Your are experiencing symptoms of Diarrhea. Visit the hospital if the symptoms persist after one week of medication use.",
         dosage:"The initial dose is 4mg (two capsules) followed by 2 mg (one capsule) after each unformed stool"
     }
+];
+
+export const doctors = [
+    {
+        picture: "/_static/images/doctor.png",
+        name: "Dr Brentford Junior",
+        title: "Physician",
+        date: "February 14, 2023"
+    },
+    {
+        picture: "/_static/images/doctor.png",
+        name: "Dr Sarah Hammil",
+        title: "Physician",
+        date: "February 13, 2022"
+    },
+    {
+        picture: "/_static/images/doctor.png",
+        name: "Dr Sirius Lancaster",
+        title: "Pharm Dr",
+        date: "February 13, 2020"
+    }
 ]
