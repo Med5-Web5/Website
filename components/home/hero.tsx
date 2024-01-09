@@ -5,7 +5,6 @@ import Image from 'next/image';
 const Hero = () => {
   return (
     <div className='min-h-screen bg-gradient-to-tr from-[#0D92B1] via-[#6C89DF] to-[#B180EF]'>
-        <Nav />
         <div className="grid justify-center w-[80%] mx-auto sm:w-full items-center h-[max-content]">
           <div className="w-[fit-content] items-center text-center">
             <p className="text-[#fff] font-montserrat font-bold my-4 sm: mt-[3rem]">Med5</p>
