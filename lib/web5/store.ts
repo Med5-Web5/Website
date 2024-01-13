@@ -21,8 +21,8 @@ interface IPrescription {
 
 interface IDoctor {
 	id?: string;
-	firstName: string;
-	secondName: string;
+	name: string;
+	surname: string;
 	expertise: string;
 	hospitalOfResidence: string;
 	certificate: string; //base64 encoded certificate

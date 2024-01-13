@@ -64,7 +64,7 @@ const NavItem =({ name, path }: { name: string, path: string }) => {
     <Link
       key={path}
       href={path}
-      prefetch={true}
+      // prefetch={true}
       className={clsx(
         'transition-all flex text-[#6986DC] font-poppinsMedium font-bold align-middle',
       )}

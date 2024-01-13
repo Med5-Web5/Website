@@ -4,7 +4,7 @@ import '@/styles/globals.css';
 import { cn } from "@/lib/utils";
 import { Nav, Footer } from '@/components/layout';
 
-export const metadata: Metadata = {
+ export const metadata: Metadata = {
   metadataBase: new URL('https://med5.vercel.app'),
   title: {
     default: "Med5",
